@@ -10,13 +10,13 @@
  <div>
 <p><strong>Create Json file</strong></p>
 <ul>
-<li>product.json</li>
+<li>user.json</li>
  </div>
  
  <div>
  <p><strong>Running Server</strong></p>
  <ul>
- <li>$ json-server --watch product.json </li>
+ <li>$ json-server --watch user.json </li>
  </div>
  
  <div>
