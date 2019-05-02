@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Mohamed dddddSalah ",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "Sergio Agüero",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "name": "Jamie Vardy",
+      "password": "12345",
+      "id": 3
+    }
+  ]
+}
